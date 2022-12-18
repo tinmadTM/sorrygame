@@ -1,3 +1,8 @@
+#This was made as a project for SDEV, it's a Sorry! game though isn't played with cards, but with dice.
+# Caleb Emery, STUDENT at IVY TECH
+#
+#
+
 import random
 playersvar = 0
 class Player:
